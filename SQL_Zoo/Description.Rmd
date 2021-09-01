@@ -1,0 +1,6 @@
+---
+title: "SQL Zoo"
+output: html_document
+---
+
+This document is a placeholder to ensure a folder is properly added to the Github repo. 
